@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anslemkelechi, you can call me blak
+- 👋 Hi, I’m @anslemkelechi, you can call me Blak
 - 👀 I’m interested in the javascript ecosystem for MERN developers
 - 🌱 I’m currently learning javascript in web3
 - 💞️ I’m looking to collaborate on fullstack projects, i can also jump on fun web3 projects

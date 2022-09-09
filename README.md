@@ -6,7 +6,7 @@
 
 
 
-I'm a Software Engineer & Content Creator, I'm all about building world-class solutions and technologies for both frontend and backend architectures, sharing knowledge, documentation, web engineering, MERN Stack, WEb 3, and others. I create technical content (on my [Blog](https://dev.to/blakcoder) and [YouTube](https://www.youtube.com/channel/UCkCygRifJMUpr8SrDLvc0Bg)), build useful [open-source projects](https://github.com/anslemkelechi), build technical communities
+I'm a Software Engineer & Content Creator, I'm all about building world-class solutions and technologies for both frontend and backend architectures, sharing knowledge, documentation, web engineering, MERN Stack, WEB 3, and others. I create technical content (on my [Blog](https://dev.to/blakcoder) and [YouTube](https://www.youtube.com/channel/UCkCygRifJMUpr8SrDLvc0Bg)), build useful [open-source projects](https://github.com/anslemkelechi), build technical communities
 
 **Here's a quick summary about me**:
 

@@ -29,3 +29,5 @@ I'm a Software Engineer & Content Creator, I'm all about building world-class so
 anslemkelechi/anslemkelechi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+He is a good teacher.

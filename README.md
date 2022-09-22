@@ -21,6 +21,8 @@ I'm a Software Engineer & Content Creator, I'm all about building world-class so
 
 ---
 
+my name is lotanna a fine boy with a stupid boy sittiny beside me the na mumu omo werey 
+
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=anslemkelechi&show_icons=true&include_all_commits=true&hide_border=true" alt="Blakcoder's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anslemkelechi&langs_count=8&layout=compact&hide_border=true" alt="Blakcoder's GitHub stats" /> |
 | ------------- | ------------- |
 

@@ -25,7 +25,10 @@ I'm a Software Engineer & Content Creator, I'm all about building world-class so
 | ------------- | ------------- |
 
 
+Blackode is a nice guy, a teacher a boss, a tutor. I love his personality and knows what hes doing as a person. 
+
 <!---
 anslemkelechi/anslemkelechi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+

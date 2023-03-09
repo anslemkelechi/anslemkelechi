@@ -17,7 +17,7 @@ I'm a Software Engineer & Content Creator, I'm all about building world-class so
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Frontend Engineer, Backend Engineer or UI Engineer (Intern or Junior level).
 - 💞️ I’m looking to collaborate on fullstack projects, i can also jump on fun web3 projects
-- 📫 You can [view my resume](https://docs.google.com/document/d/13JNew_Z0NxqQqhWJKGhXgH5vpNe9es2CDMxh4_jKigQ/edit?usp=sharing) and contact me by emailing to kelechi.webdev@gmail.com.
+- 📫 You can [view my portofolio](https://blakcoder.tech) and contact me by emailing to kelechi.webdev@gmail.com.
 
 ---
 

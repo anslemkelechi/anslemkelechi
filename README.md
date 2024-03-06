@@ -12,10 +12,10 @@ I'm a Software Engineer & Content Creator, I'm all about building world-class so
 
 - 😊 Pronouns: He/him
 - 🌱 I’m currently learning DevOps
-- 👀 I’m interested in the Javascript ecosystem for MERN developers
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+- 👀 I’m interested in the Javascript ecosystem for MERN developers, also interested in the Golang ecosystem.
+- 😊 I’m looking to help with open source projects, hackathons.
 - 💼 Job interests: Software Engineer, Frontend Engineer, Backend Engineer or UI Engineer (Mid Level or Senior).
-- 💞️ I’m looking to collaborate on fullstack projects, i can also jump on fun web3 projects
+- 💞️ I’m looking to collaborate on backend engineering projects, i can also jump on fun web3 projects
 - 📫 You can [view my portofolio](https://blak.netlify.app) and contact me by emailing to kelechi.webdev@gmail.com.
 
 ---

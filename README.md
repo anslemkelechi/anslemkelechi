@@ -4,19 +4,17 @@
 [![Devto Badge](https://img.shields.io/badge/dev.to-0a0a0a?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/blakcoder)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCkCygRifJMUpr8SrDLvc0Bg)
 
-
-
-I'm a Software Engineer & Content Creator, I'm all about building world-class solutions and technologies for both frontend and backend architectures, sharing knowledge, documentation, web engineering, MERN Stack, WEB 3, and others. I create technical content (on my [Blog](https://dev.to/blakcoder) and [YouTube](https://www.youtube.com/channel/UCkCygRifJMUpr8SrDLvc0Bg)), build useful [open-source projects](https://github.com/anslemkelechi), build technical communities
+I'm a Senior Software Engineer specializing in backend architecture, fintech infrastructure, and distributed systems — Go, Node.js/NestJS, and Python across payments, compliance, and AI automation. I've led engineering teams shipping production systems for fintech and SaaS companies across Nigeria, Canada, and the US, and I still write technical content on my [Blog](https://dev.to/blakcoder) and [YouTube](https://www.youtube.com/channel/UCkCygRifJMUpr8SrDLvc0Bg), and build [open-source tooling](https://github.com/anslemkelechi).
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 🌱 Actively learning and exploring Artificial Intelligence (AI) and Large Language Models (LLMs)."
-- 👀 I’m interested in the Javascript ecosystem for MERN developers, also interested in the Golang ecosystem.
-- 😊 I’m looking to help with open source projects, hackathons.
-- 💼 Job interests: Software Engineer, Frontend Engineer, Backend Engineer or Devops Engineer (Mid Level or Senior).
-- 💞️ I’m looking to collaborate on backend engineering projects, i can also jump on fun web3 projects
-- 📫 You can [view my portofolio](https://blak.netlify.app) and contact me by emailing to kelechi.webdev@gmail.com.
+- 🔭 Currently architecting secure fintech onboarding, KYC/AML, and payment infrastructure at Creditveto
+- 🌱 Building AI-driven automation and LLM-powered services — chat agents, workflow automation, and reusable AI service layers
+- 👀 Deep in the Go and Node.js/NestJS ecosystems for backend architecture and distributed systems
+- 💼 Open to backend/fintech consulting and contract engineering work alongside full-time roles
+- 💞️ Looking to collaborate on backend architecture, fintech infrastructure, and AI automation projects
+- 📫 View my [portfolio](https://blak.netlify.app) and reach me at kelechi.webdev@gmail.com
 
 ---
 

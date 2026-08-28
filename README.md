@@ -17,6 +17,7 @@ I'm a Senior Software Engineer specializing in backend architecture, fintech inf
 - 📫 View my [portfolio](https://blak.netlify.app) and reach me at kelechi.webdev@gmail.com
 
 ---
+my name is lotanna student of imsu 
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=anslemkelechi&show_icons=true&include_all_commits=true&hide_border=true" alt="Blakcoder's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anslemkelechi&langs_count=8&layout=compact&hide_border=true" alt="Blakcoder's GitHub stats" /> |
 | ------------- | ------------- |
